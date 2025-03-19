@@ -1,0 +1,10 @@
+train: /home/sumit/programming/yolo/football-players-detection-2/train/images
+val: /home/sumit/programming/yolo/football-players-detection-2/valid/images
+test: /home/sumit/programming/yolo/football-players-detection-2/test/images  # Optional
+nc: 4
+names:
+  - ball
+  - goalkeeper
+  - player
+  - referee
+
